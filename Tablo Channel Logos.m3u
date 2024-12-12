@@ -1,0 +1,57 @@
+#EXTM3U
+
+#EXTINF:-1 channel-id="NBC3" tvg-chno="3.1",NBC3 tvg-logo="https://th.bing.com/th/id/R.74e606b4e2e57f83350157ac9a40ad9d?rik=hUo8oaypsAXSvg&pid=ImgRaw&r=0",NBC3
+http://192.168.1.174:8050/watch/1358
+
+#EXTINF:-1 channel-id="Charge!" tvg-chno="3.3",Charge!
+http://192.168.1.174:8050/watch/1359
+
+#EXTINF:-1 channel-id="Comet" tvg-chno="3.4",Comet
+http://192.168.1.174:8050/watch/1360
+
+#EXTINF:-1 channel-id="FOX5LV" tvg-chno="5.1",FOX5LV
+http://192.168.1.174:8050/watch/1324
+
+#EXTINF:-1 channel-id="SSSEN" tvg-chno="5.2",SSSEN
+http://192.168.1.174:8050/watch/1325
+
+#EXTINF:-1 channel-id="MYSTERY" tvg-chno="5.3",MYSTERY
+http://192.168.1.174:8050/watch/1326
+
+#EXTINF:-1 channel-id="DABL" tvg-chno="5.4",DABL
+http://192.168.1.174:8050/watch/1327
+
+#EXTINF:-1 channel-id="CBS" tvg-chno="8.1",CBS
+http://192.168.1.174:8050/watch/1309
+
+#EXTINF:-1 channel-id="Antenna" tvg-chno="8.2",Antenna
+http://192.168.1.174:8050/watch/1310
+
+#EXTINF:-1 channel-id="Rewind" tvg-chno="8.3",Rewind
+http://192.168.1.174:8050/watch/1311
+
+#EXTINF:-1 channel-id="ShopLC" tvg-chno="8.4",ShopLC
+http://192.168.1.174:8050/watch/1312
+
+#EXTINF:-1 channel-id="KLVX-HD" tvg-chno="10.1",KLVX-HD
+http://192.168.1.174:8050/watch/1328
+
+#EXTINF:-1 channel-id="Create" tvg-chno="10.2",Create
+http://192.168.1.174:8050/watch/1329
+
+#EXTINF:-1 channel-id="PBSKids" tvg-chno="10.3",PBSKids
+http://192.168.1.174:8050/watch/1330
+
+#EXTINF:-1 channel-id="WORLD" tvg-chno="10.4",WORLD
+http://192.168.1.174:8050/watch/1331
+
+#EXTINF:-1 channel-id="KTNV-HD" tvg-chno="13.1",KTNV-HD
+http://192.168.1.174:8050/watch/1332
+
+#EXTINF:-1 channel-id="LAFF" tvg-chno="13.2",LAFF
+http://192.168.1.174:8050/watch/1333
+
+#EXTINF:-1 channel-id="GRIT" tvg-chno="13.3",GRIT
+http://192.168.1.174:8050/watch/1334
+
+EOF

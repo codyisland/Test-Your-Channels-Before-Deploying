@@ -3,245 +3,246 @@
 #EXTINF:-1 channel-id="NBC3" tvg-chno="3.1",NBC3 tvg-logo="https://logosmarcas.net/wp-content/uploads/2021/10/NBC-Logo.png",NBC3
 http://192.168.1.174:8050/watch/1358
 
-#EXTINF:-1 channel-id="Charge!" tvg-chno="3.3",Charge!
+#EXTINF:-1 channel-id="Charge!" tvg-chno="3.3",Charge! tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/charge-us.png",Charge
 http://192.168.1.174:8050/watch/1359
 
-#EXTINF:-1 channel-id="Comet" tvg-chno="3.4",Comet
+#EXTINF:-1 channel-id="Comet" tvg-chno="3.4",Comet tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comet-us.png?raw=true",Comet
 http://192.168.1.174:8050/watch/1360
 
-#EXTINF:-1 channel-id="FOX5LV" tvg-chno="5.1",FOX5LV
+#EXTINF:-1 channel-id="FOX5LV" tvg-chno="5.1",FOX5LV tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true",FOX5LV
 http://192.168.1.174:8050/watch/1324
 
-#EXTINF:-1 channel-id="SSSEN" tvg-chno="5.2",SSSEN
+#EXTINF:-1 channel-id="SSSEN" tvg-chno="5.2",SSSEN tvg-logo="", SSEN
 http://192.168.1.174:8050/watch/1325
 
-#EXTINF:-1 channel-id="MYSTERY" tvg-chno="5.3",MYSTERY
+#EXTINF:-1 channel-id="MYSTERY" tvg-chno="5.3",MYSTERY tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-mystery-us.png?raw=true", Mystery
 http://192.168.1.174:8050/watch/1326
 
-#EXTINF:-1 channel-id="DABL" tvg-chno="5.4",DABL
+#EXTINF:-1 channel-id="DABL" tvg-chno="5.4",DABL tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/dabl-us.png?raw=true", DABL
 http://192.168.1.174:8050/watch/1327
 
-#EXTINF:-1 channel-id="CBS" tvg-chno="8.1",CBS
+#EXTINF:-1 channel-id="CBS" tvg-chno="8.1",CBS tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true", CBS
 http://192.168.1.174:8050/watch/1309
 
-#EXTINF:-1 channel-id="Antenna" tvg-chno="8.2",Antenna
+#EXTINF:-1 channel-id="Antenna" tvg-chno="8.2",Antenna tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/antenna-us.png?raw=true", Antenna
 http://192.168.1.174:8050/watch/1310
 
-#EXTINF:-1 channel-id="Rewind" tvg-chno="8.3",Rewind
+#EXTINF:-1 channel-id="Rewind" tvg-chno="8.3",Rewind tvg-logo="https://www.pngkit.com/png/full/817-8178170_rewind-logo-png-creative-commons-symbol.png", Rewind
 http://192.168.1.174:8050/watch/1311
 
-#EXTINF:-1 channel-id="ShopLC" tvg-chno="8.4",ShopLC
+#EXTINF:-1 channel-id="ShopLC" tvg-chno="8.4",ShopLC tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/shop-lc-us.png?raw=true", ShopLC
 http://192.168.1.174:8050/watch/1312
 
-#EXTINF:-1 channel-id="KLVX-HD" tvg-chno="10.1",KLVX-HD
+#EXTINF:-1 channel-id="KLVX-HD" tvg-chno="10.1",KLVX-HD tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png?raw=true", KLVX-HD
 http://192.168.1.174:8050/watch/1328
 
-#EXTINF:-1 channel-id="Create" tvg-chno="10.2",Create
+#EXTINF:-1 channel-id="Create" tvg-chno="10.2",Create tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/create-us.png?raw=true", Create
 http://192.168.1.174:8050/watch/1329
 
-#EXTINF:-1 channel-id="PBSKids" tvg-chno="10.3",PBSKids
+#EXTINF:-1 channel-id="PBSKids" tvg-chno="10.3",PBSKids tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-kids-dash-icon-us.png?raw=true", PBSKids
 http://192.168.1.174:8050/watch/1330
 
-#EXTINF:-1 channel-id="WORLD" tvg-chno="10.4",WORLD
+#EXTINF:-1 channel-id="WORLD" tvg-chno="10.4",WORLD tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-pbs-us.png?raw=true", WORLD
 http://192.168.1.174:8050/watch/1331
 
-#EXTINF:-1 channel-id="KTNV-HD" tvg-chno="13.1",KTNV-HD
+#EXTINF:-1 channel-id="KTNV-HD" tvg-chno="13.1",KTNV-HD tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-us.png?raw=true", KTNV-HD
 http://192.168.1.174:8050/watch/1332
 
-#EXTINF:-1 channel-id="LAFF" tvg-chno="13.2",LAFF
+#EXTINF:-1 channel-id="LAFF" tvg-chno="13.2",LAFF tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true", LAFF
 http://192.168.1.174:8050/watch/1333
 
-#EXTINF:-1 channel-id="GRIT" tvg-chno="13.3",GRIT
+#EXTINF:-1 channel-id="GRIT" tvg-chno="13.3",GRIT tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/grit-us.png?raw=true", GRIT
 http://192.168.1.174:8050/watch/1334
 
-#EXTINF:-1 channel-id="HSN" tvg-chno="13.4",HSN
+#EXTINF:-1 channel-id="HSN" tvg-chno="13.4",HSN tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hsn-us.png?raw=true", HSN
 http://192.168.1.174:8050/watch/1335
 
-#EXTINF:-1 channel-id="ShopLC" tvg-chno="13.5",ShopLC
+#EXTINF:-1 channel-id="ShopLC" tvg-chno="13.5",ShopLC tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/shop-lc-us.png?raw=true", ShopLC
 http://192.168.1.174:8050/watch/160328
 
-#EXTINF:-1 channel-id="TruCrme" tvg-chno="15.4",TruCrme
+#EXTINF:-1 channel-id="TruCrme" tvg-chno="15.4",TruCrme tvg-logo="https://rbr.com/wp-content/uploads/True-Crime-Network-Logo-1-696x448.png", TruCrme
 http://192.168.1.174:8050/watch/1344
 
-#EXTINF:-1 channel-id="Quest" tvg-chno="15.5",Quest
+#EXTINF:-1 channel-id="Quest" tvg-chno="15.5",Quest tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/quest-us.png?raw=true", Quest
 http://192.168.1.174:8050/watch/1345
 
-#EXTINF:-1 channel-id="KEEN" tvg-chno="17.1",KEEN
+#EXTINF:-1 channel-id="KEEN" tvg-chno="17.1",KEEN tvg-logo="", KEEN
 http://192.168.1.174:8050/watch/424679
 
-#EXTINF:-1 channel-id="LIFE" tvg-chno="17.2",LIFE
+#EXTINF:-1 channel-id="LIFE" tvg-chno="17.2",LIFE tvg-logo="", LIFE
 http://192.168.1.174:8050/watch/424680
 
-#EXTINF:-1 channel-id="CTNi" tvg-chno="17.3",CTNi
+#EXTINF:-1 channel-id="CTNi" tvg-chno="17.3",CTNi tvg-logo="https://www.ctnonline.com/wp-content/uploads/2023/04/CTNi_Logo_Oval.png", CTNi
 http://192.168.1.174:8050/watch/424681
 
-#EXTINF:-1 channel-id="MeTV" tvg-chno="21.1",MeTV
+#EXTINF:-1 channel-id="MeTV" tvg-chno="21.1",MeTV tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/1280px-MeTV_Logo.svg.png", MeTV
 http://192.168.1.174:8050/watch/424671
 
-#EXTINF:-1 channel-id="H&I" tvg-chno="21.2",H&I
+#EXTINF:-1 channel-id="H&I" tvg-chno="21.2",H&I tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/heroes-and-icons-us.png?raw=true", H&I
 http://192.168.1.174:8050/watch/424664
 
-#EXTINF:-1 channel-id="START" tvg-chno="21.3",START
+#EXTINF:-1 channel-id="START" tvg-chno="21.3",START tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true", START
 http://192.168.1.174:8050/watch/424666
 
-#EXTINF:-1 channel-id="getTV" tvg-chno="21.4",getTV
+#EXTINF:-1 channel-id="getTV" tvg-chno="21.4",getTV tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/get-tv-us.png?raw=true", getTV
 http://192.168.1.174:8050/watch/424667
 
-#EXTINF:-1 channel-id="CATCHY" tvg-chno="21.5",CATCHY
+#EXTINF:-1 channel-id="CATCHY" tvg-chno="21.5",CATCHY tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/catchy-comedy-us.png?raw=true", CATCHY
 http://192.168.1.174:8050/watch/424668
 
-#EXTINF:-1 channel-id="MeToons" tvg-chno="21.6",MeToons
+#EXTINF:-1 channel-id="MeToons" tvg-chno="21.6",MeToons tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abccolumbia.com/content/uploads/2024/06/t/v/metv-toons-logo-gold.png", MeToons
 http://192.168.1.174:8050/watch/424665
 
-#EXTINF:-1 channel-id="NTDwest" tvg-chno="21.7",NTDwest
+#EXTINF:-1 channel-id="NTDwest" tvg-chno="21.7",NTDwest tvg-logo="https://i.imgur.com/a8lRb6m.png", NTDwest
 http://192.168.1.174:8050/watch/424670
 
-#EXTINF:-1 channel-id="QVC" tvg-chno="21.8",QVC
+#EXTINF:-1 channel-id="QVC" tvg-chno="21.8",QVC tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/qvc-us.png?raw=true", QVC
 http://192.168.1.174:8050/watch/424669
 
-#EXTINF:-1 channel-id="KLVD-LD" tvg-chno="23.1",KLVD-LD
+#EXTINF:-1 channel-id="KLVD-LD" tvg-chno="23.1",KLVD-LD tvg-logo="", KLVD-LD 
 http://192.168.1.174:8050/watch/1356
 
-#EXTINF:-1 channel-id="ESPANOL" tvg-chno="23.2",ESPANOL
+#EXTINF:-1 channel-id="ESPANOL" tvg-chno="23.2",ESPANOL tvg-logo="", ESPANOL
 http://192.168.1.174:8050/watch/1357
 
-#EXTINF:-1 channel-id="PrimeTV" tvg-chno="25.1",PrimeTV
+#EXTINF:-1 channel-id="PrimeTV" tvg-chno="25.1",PrimeTV tvg-logo="", PrimeTV
 http://192.168.1.174:8050/watch/160330
 
-#EXTINF:-1 channel-id="Movies!" tvg-chno="25.2",Movies!
+#EXTINF:-1 channel-id="Movies!" tvg-chno="25.2",Movies! tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/movies-us.png?raw=true", Movies!
 http://192.168.1.174:8050/watch/160331
 
-#EXTINF:-1 channel-id="RAVHD" tvg-chno="25.3",RAVHD
+#EXTINF:-1 channel-id="RAVHD" tvg-chno="25.3",RAVHD tvg-logo="", RAVHD
 http://192.168.1.174:8050/watch/160332
 
-#EXTINF:-1 channel-id="OAN" tvg-chno="25.4",OAN
+#EXTINF:-1 channel-id="OAN" tvg-chno="25.4",OAN tvg-logo="", OAN
 http://192.168.1.174:8050/watch/160333
 
-#EXTINF:-1 channel-id="NEWSMAX" tvg-chno="25.5",NEWSMAX
+#EXTINF:-1 channel-id="NEWSMAX" tvg-chno="25.5",NEWSMAX tvg-logo="", NEWSMAX 
 http://192.168.1.174:8050/watch/160334
 
-#EXTINF:-1 channel-id="Story" tvg-chno="25.6",Story
+#EXTINF:-1 channel-id="Story" tvg-chno="25.6",Story tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/story-television-us.png?raw=true", Story
 http://192.168.1.174:8050/watch/160335
 
-#EXTINF:-1 channel-id="Tel-Ant" tvg-chno="26.2",Tel-Ant
+#EXTINF:-1 channel-id="Tel-Ant" tvg-chno="26.2",Tel-Ant tvg-logo="", Tel-Ant
 http://192.168.1.174:8050/watch/1369
 
-#EXTINF:-1 channel-id="TBA" tvg-chno="26.3",TBA
+#EXTINF:-1 channel-id="TBA" tvg-chno="26.3",TBA tvg-logo="", TBA
 http://192.168.1.174:8050/watch/1364
 
-#EXTINF:-1 channel-id="BUZZR" tvg-chno="26.4",BUZZR
+#EXTINF:-1 channel-id="BUZZR" tvg-chno="26.4",BUZZR tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/buzzr-us.png?raw=true", BUZZR 
 http://192.168.1.174:8050/watch/1365
 
-#EXTINF:-1 channel-id="CTVLV" tvg-chno="26.5",CTVLV
+#EXTINF:-1 channel-id="CTVLV" tvg-chno="26.5",CTVLV tvg-logo="", CTVLV
 http://192.168.1.174:8050/watch/1366
 
-#EXTINF:-1 channel-id="Ventana" tvg-chno="26.6",Ventana
+#EXTINF:-1 channel-id="Ventana" tvg-chno="26.6",Ventana tvg-logo="", Ventana
 http://192.168.1.174:8050/watch/1367
 
-#EXTINF:-1 channel-id="TheGrio" tvg-chno="26.7",TheGrio
+#EXTINF:-1 channel-id="TheGrio" tvg-chno="26.7",TheGrio tvg-logo="https://seeklogo.com/images/T/the-grio-logo-638AC8B498-seeklogo.com.png", TheGrio
 http://192.168.1.174:8050/watch/1363
 
-#EXTINF:-1 channel-id="Vegas+" tvg-chno="26.8",Vegas+
+#EXTINF:-1 channel-id="Vegas+" tvg-chno="26.8",Vegas+ tvg-logo="", Vegas+
 http://192.168.1.174:8050/watch/1368
 
-#EXTINF:-1 channel-id="VNATV" tvg-chno="26.9",VNATV
+#EXTINF:-1 channel-id="VNATV" tvg-chno="26.9",VNATV tvg-logo="", VNATV
 http://192.168.1.174:8050/watch/1370
 
-#EXTINF:-1 channel-id="QVC2" tvg-chno="26.10",QVC2
+#EXTINF:-1 channel-id="QVC2" tvg-chno="26.10",QVC2 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/qvc-2-us.png?raw=true", QVC2
 http://192.168.1.174:8050/watch/1371
 
-#EXTINF:-1 channel-id="KVPX-LD" tvg-chno="28.3",KVPX-LD
+#EXTINF:-1 channel-id="KVPX-LD" tvg-chno="28.3",KVPX-LD tvg-logo="", KVPX-LD 
 http://192.168.1.174:8050/watch/1372
 
-#EXTINF:-1 channel-id="KVPX-LD" tvg-chno="28.4",KVPX-LD
+#EXTINF:-1 channel-id="KVPX-LD" tvg-chno="28.4",KVPX-LD tvg-logo="", KVPX-LD
 http://192.168.1.174:8050/watch/1373
 
-#EXTINF:-1 channel-id="KEGS-LD" tvg-chno="30.1",KEGS-LD
+#EXTINF:-1 channel-id="KEGS-LD" tvg-chno="30.1",KEGS-LD tvg-logo="", KEGS-LD
 http://192.168.1.174:8050/watch/1361
 
-#EXTINF:-1 channel-id="KEGS-LD" tvg-chno="30.2",KEGS-LD
+#EXTINF:-1 channel-id="KEGS-LD" tvg-chno="30.2",KEGS-LD tvg-logo="", KEGS-LD
 http://192.168.1.174:8050/watch/61
 
-#EXTINF:-1 channel-id="KEGS-LD" tvg-chno="30.3",KEGS-LD
+#EXTINF:-1 channel-id="KEGS-LD" tvg-chno="30.3",KEGS-LD tvg-logo="", KEGS-LD
 http://192.168.1.174:8050/watch/62
 
-#EXTINF:-1 channel-id="KEGS-LD" tvg-chno="30.4",KEGS-LD
+#EXTINF:-1 channel-id="KEGS-LD" tvg-chno="30.4",KEGS-LD tvg-logo="", KEGS-LD
 http://192.168.1.174:8050/watch/63
 
-#EXTINF:-1 channel-id="KNBX-CD" tvg-chno="31.1",KNBX-CD
+#EXTINF:-1 channel-id="KNBX-CD" tvg-chno="31.1",KNBX-CD tvg-logo="", KNBX-CD
 http://192.168.1.174:8050/watch/1337
 
-#EXTINF:-1 channel-id="KNBX-CD" tvg-chno="31.2",KNBX-CD
+#EXTINF:-1 channel-id="KNBX-CD" tvg-chno="31.2",KNBX-CD tvg-logo="", KNBX-CD
 http://192.168.1.174:8050/watch/1338
 
-#EXTINF:-1 channel-id="KNBX-CD" tvg-chno="31.6",KNBX-CD
+#EXTINF:-1 channel-id="KNBX-CD" tvg-chno="31.6",KNBX-CD tvg-logo="", KNBX-CD
 http://192.168.1.174:8050/watch/1342
 
-#EXTINF:-1 channel-id="TheCWLV" tvg-chno="33.1",TheCWLV
+#EXTINF:-1 channel-id="TheCWLV" tvg-chno="33.1",TheCWLV tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/the-cw-us.png?raw=true", TheCWLV
 http://192.168.1.174:8050/watch/1336
 
-#EXTINF:-1 channel-id="My_LVTV" tvg-chno="33.2",My_LVTV
+#EXTINF:-1 channel-id="My_LVTV" tvg-chno="33.2",My_LVTV tvg-logo="https://th.bing.com/th/id/R.c4e8b27dffa2c1dea3b859653a384099?rik=NtqhdpYNbKQSKA&pid=ImgRaw&r=0", My_LVTV
 http://192.168.1.174:8050/watch/66
 
-#EXTINF:-1 channel-id="TBD" tvg-chno="33.3",TBD
+#EXTINF:-1 channel-id="TBD" tvg-chno="33.3",TBD tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbd-us.png?raw=true", TBD
 http://192.168.1.174:8050/watch/1313
 
-#EXTINF:-1 channel-id="ThisTV" tvg-chno="33.4",ThisTV
+#EXTINF:-1 channel-id="ThisTV" tvg-chno="33.4",ThisTV tvg-logo="", ThisTV
 http://192.168.1.174:8050/watch/1314
 
-#EXTINF:-1 channel-id="Nest" tvg-chno="33.5",Nest
+#EXTINF:-1 channel-id="Nest" tvg-chno="33.5",Nest tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/the-nest-us.png?raw=true", Nest
 http://192.168.1.174:8050/watch/1315
 
-#EXTINF:-1 channel-id="Vegas34" tvg-chno="34.1",Vegas34
+#EXTINF:-1 channel-id="Vegas34" tvg-chno="34.1",Vegas34 tvg-logo="https://i.imgur.com/HdHRg3b.png", Vegas34 
 http://192.168.1.174:8050/watch/424684
 
-#EXTINF:-1 channel-id="ION" tvg-chno="34.2",ION
+#EXTINF:-1 channel-id="ION" tvg-chno="34.2",ION tvg-logo="https://logodix.com/logo/495729.png", ION
 http://192.168.1.174:8050/watch/424685
 
-#EXTINF:-1 channel-id="SCRIPPS" tvg-chno="34.4",SCRIPPS
+#EXTINF:-1 channel-id="SCRIPPS" tvg-chno="34.4",SCRIPPS tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/scripps-news-us.png?raw=true", SCRIPPS
 http://192.168.1.174:8050/watch/424686
 
-#EXTINF:-1 channel-id="IONPlus" tvg-chno="34.5",IONPlus
+#EXTINF:-1 channel-id="IONPlus" tvg-chno="34.5",IONPlus tvg-logo="https://logodix.com/logo/451814.png", IONPlus
 http://192.168.1.174:8050/watch/424687
 
-#EXTINF:-1 channel-id="Bounce" tvg-chno="34.6",Bounce
+#EXTINF:-1 channel-id="Bounce" tvg-chno="34.6",Bounce tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true", Bounce
 http://192.168.1.174:8050/watch/424688
 
-#EXTINF:-1 channel-id="Mystery" tvg-chno="34.7",Mystery
+#EXTINF:-1 channel-id="Mystery" tvg-chno="34.7",Mystery tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-mystery-us.png?raw=true", MYSTERY
 http://192.168.1.174:8050/watch/424689
 
-#EXTINF:-1 channel-id="HSN" tvg-chno="34.8",HSN
+#EXTINF:-1 channel-id="HSN" tvg-chno="34.8",HSN tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hsn-us.png?raw=true", HSN
 http://192.168.1.174:8050/watch/424690
 
-#EXTINF:-1 channel-id="COZI" tvg-chno="39.4",COZI
+#EXTINF:-1 channel-id="COZI" tvg-chno="39.4",COZI tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cozi-tv-us.png?raw=true", COZI
 http://192.168.1.174:8050/watch/59
 
-#EXTINF:-1 channel-id="Oxygen" tvg-chno="39.5",Oxygen
+#EXTINF:-1 channel-id="Oxygen" tvg-chno="39.5",Oxygen tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true", Oxygen
 http://192.168.1.174:8050/watch/160329
 
-#EXTINF:-1 channel-id="Nosey" tvg-chno="39.6",Nosey
+#EXTINF:-1 channel-id="Nosey" tvg-chno="39.6",Nosey tvg-logo="https://d2suv5gemfchwa.cloudfront.net/assets/images/logos/apps/transparent/padded/nosey.png", Nosey
 http://192.168.1.174:8050/watch/424682
 
-#EXTINF:-1 channel-id="LC" tvg-chno="50.1",LC
+#EXTINF:-1 channel-id="LC" tvg-chno="50.1",LC tvg-logo="", LC
 http://192.168.1.174:8050/watch/424683
 
-#EXTINF:-1 channel-id="KVGA-LD" tvg-chno="51.1",KVGA-LD
+#EXTINF:-1 channel-id="KVGA-LD" tvg-chno="51.1",KVGA-LD tvg-logo="", KVGA-LD 
 http://192.168.1.174:8050/watch/424672
 
-#EXTINF:-1 channel-id="RTV" tvg-chno="51.2",RTV
+#EXTINF:-1 channel-id="RTV" tvg-chno="51.2",RTV tvg-logo="", RTV
 http://192.168.1.174:8050/watch/424673
 
-#EXTINF:-1 channel-id="REVN" tvg-chno="51.3",REVN
+#EXTINF:-1 channel-id="REVN" tvg-chno="51.3",REVN tvg-logo="https://i.imgur.com/N8UatTY.png", REVN
 http://192.168.1.174:8050/watch/424674
 
-#EXTINF:-1 channel-id="Action" tvg-chno="51.4",Action
+#EXTINF:-1 channel-id="Action" tvg-chno="51.4",Action tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/action-channel-us.png?raw=true", Action
 http://192.168.1.174:8050/watch/424675
 
-#EXTINF:-1 channel-id="Family" tvg-chno="51.5",Family
+#EXTINF:-1 channel-id="Family" tvg-chno="51.5",Family tvg-logo="", Family
 http://192.168.1.174:8050/watch/424676
 
-#EXTINF:-1 channel-id="Revival" tvg-chno="51.6",Revival
+#EXTINF:-1 channel-id="Revival" tvg-chno="51.6",Revival tvg-logo="", Revival
 http://192.168.1.174:8050/watch/424677
 
-#EXTINF:-1 channel-id="GLTVii" tvg-chno="51.7",GLTVii
+#EXTINF:-1 channel-id="GLTVii" tvg-chno="51.7",GLTVii tvg-logo="", GLTVii
 http://192.168.1.174:8050/watch/424678
+

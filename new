@@ -12,7 +12,7 @@ http://192.168.1.174:8050/watch/1360
 #EXTINF:-1 channel-id="FOX5LV" tvg-chno="5.1",FOX5LV tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true",FOX5LV
 http://192.168.1.174:8050/watch/1324
 
-#EXTINF:-1 channel-id="SSSEN" tvg-chno="5.2",SSSEN tvg-logo="", SSEN
+#EXTINF:-1 channel-id="SSSEN" tvg-chno="5.2",SSSEN tvg-logo="https://i.imgur.com/OR2pbQa.png", SSEN
 http://192.168.1.174:8050/watch/1325
 
 #EXTINF:-1 channel-id="MYSTERY" tvg-chno="5.3",MYSTERY tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-mystery-us.png?raw=true", Mystery
@@ -66,10 +66,10 @@ http://192.168.1.174:8050/watch/1344
 #EXTINF:-1 channel-id="Quest" tvg-chno="15.5",Quest tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/quest-us.png?raw=true", Quest
 http://192.168.1.174:8050/watch/1345
 
-#EXTINF:-1 channel-id="KEEN" tvg-chno="17.1",KEEN tvg-logo="", KEEN
+#EXTINF:-1 channel-id="KEEN" tvg-chno="17.1",KEEN
 http://192.168.1.174:8050/watch/424679
 
-#EXTINF:-1 channel-id="LIFE" tvg-chno="17.2",LIFE tvg-logo="", LIFE
+#EXTINF:-1 channel-id="LIFE" tvg-chno="17.2",LIFE
 http://192.168.1.174:8050/watch/424680
 
 #EXTINF:-1 channel-id="CTNi" tvg-chno="17.3",CTNi tvg-logo="https://www.ctnonline.com/wp-content/uploads/2023/04/CTNi_Logo_Oval.png", CTNi
@@ -99,7 +99,7 @@ http://192.168.1.174:8050/watch/424670
 #EXTINF:-1 channel-id="QVC" tvg-chno="21.8",QVC tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/qvc-us.png?raw=true", QVC
 http://192.168.1.174:8050/watch/424669
 
-#EXTINF:-1 channel-id="KLVD-LD" tvg-chno="23.1",KLVD-LD tvg-logo="", KLVD-LD 
+#EXTINF:-1 channel-id="Daystar" tvg-chno="23.1",Daystar tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/daystar-us.png?raw=true", Daystar 
 http://192.168.1.174:8050/watch/1356
 
 #EXTINF:-1 channel-id="ESPANOL" tvg-chno="23.2",ESPANOL tvg-logo="", ESPANOL
@@ -111,37 +111,37 @@ http://192.168.1.174:8050/watch/160330
 #EXTINF:-1 channel-id="Movies!" tvg-chno="25.2",Movies! tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/movies-us.png?raw=true", Movies!
 http://192.168.1.174:8050/watch/160331
 
-#EXTINF:-1 channel-id="RAVHD" tvg-chno="25.3",RAVHD tvg-logo="", RAVHD
+#EXTINF:-1 channel-id="RAVHD" tvg-chno="25.3",RAVHD
 http://192.168.1.174:8050/watch/160332
 
-#EXTINF:-1 channel-id="OAN" tvg-chno="25.4",OAN tvg-logo="", OAN
+#EXTINF:-1 channel-id="OAN" tvg-chno="25.4",OAN
 http://192.168.1.174:8050/watch/160333
 
-#EXTINF:-1 channel-id="NEWSMAX" tvg-chno="25.5",NEWSMAX tvg-logo="", NEWSMAX 
+#EXTINF:-1 channel-id="NEWSMAX" tvg-chno="25.5",NEWSMAX
 http://192.168.1.174:8050/watch/160334
 
 #EXTINF:-1 channel-id="Story" tvg-chno="25.6",Story tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/story-television-us.png?raw=true", Story
 http://192.168.1.174:8050/watch/160335
 
-#EXTINF:-1 channel-id="Tel-Ant" tvg-chno="26.2",Tel-Ant tvg-logo="", Tel-Ant
+#EXTINF:-1 channel-id="Tel-Ant" tvg-chno="26.2",Tel-Ant
 http://192.168.1.174:8050/watch/1369
 
-#EXTINF:-1 channel-id="TBA" tvg-chno="26.3",TBA tvg-logo="", TBA
+#EXTINF:-1 channel-id="TBA" tvg-chno="26.3",TBA
 http://192.168.1.174:8050/watch/1364
 
 #EXTINF:-1 channel-id="BUZZR" tvg-chno="26.4",BUZZR tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/buzzr-us.png?raw=true", BUZZR 
 http://192.168.1.174:8050/watch/1365
 
-#EXTINF:-1 channel-id="CTVLV" tvg-chno="26.5",CTVLV tvg-logo="", CTVLV
+#EXTINF:-1 channel-id="CTVLV" tvg-chno="26.5",CTVLV
 http://192.168.1.174:8050/watch/1366
 
-#EXTINF:-1 channel-id="Ventana" tvg-chno="26.6",Ventana tvg-logo="", Ventana
+#EXTINF:-1 channel-id="Ventana" tvg-chno="26.6",Ventana
 http://192.168.1.174:8050/watch/1367
 
 #EXTINF:-1 channel-id="TheGrio" tvg-chno="26.7",TheGrio tvg-logo="https://seeklogo.com/images/T/the-grio-logo-638AC8B498-seeklogo.com.png", TheGrio
 http://192.168.1.174:8050/watch/1363
 
-#EXTINF:-1 channel-id="Vegas+" tvg-chno="26.8",Vegas+ tvg-logo="", Vegas+
+#EXTINF:-1 channel-id="Vegas+" tvg-chno="26.8",Vegas+
 http://192.168.1.174:8050/watch/1368
 
 #EXTINF:-1 channel-id="VNATV" tvg-chno="26.9",VNATV tvg-logo="", VNATV
@@ -150,31 +150,31 @@ http://192.168.1.174:8050/watch/1370
 #EXTINF:-1 channel-id="QVC2" tvg-chno="26.10",QVC2 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/qvc-2-us.png?raw=true", QVC2
 http://192.168.1.174:8050/watch/1371
 
-#EXTINF:-1 channel-id="KVPX-LD" tvg-chno="28.3",KVPX-LD tvg-logo="", KVPX-LD 
+#EXTINF:-1 channel-id="KVPX-LD" tvg-chno="28.3",KVPX-LD
 http://192.168.1.174:8050/watch/1372
 
-#EXTINF:-1 channel-id="KVPX-LD" tvg-chno="28.4",KVPX-LD tvg-logo="", KVPX-LD
+#EXTINF:-1 channel-id="KVPX-LD" tvg-chno="28.4",KVPX-LD
 http://192.168.1.174:8050/watch/1373
 
-#EXTINF:-1 channel-id="KEGS-LD" tvg-chno="30.1",KEGS-LD tvg-logo="", KEGS-LD
+#EXTINF:-1 channel-id="KEGS-LD" tvg-chno="30.1",KEGS-LD
 http://192.168.1.174:8050/watch/1361
 
-#EXTINF:-1 channel-id="KEGS-LD" tvg-chno="30.2",KEGS-LD tvg-logo="", KEGS-LD
+#EXTINF:-1 channel-id="KEGS-LD" tvg-chno="30.2",KEGS-LD
 http://192.168.1.174:8050/watch/61
 
-#EXTINF:-1 channel-id="KEGS-LD" tvg-chno="30.3",KEGS-LD tvg-logo="", KEGS-LD
+#EXTINF:-1 channel-id="KEGS-LD" tvg-chno="30.3",KEGS-LD
 http://192.168.1.174:8050/watch/62
 
-#EXTINF:-1 channel-id="KEGS-LD" tvg-chno="30.4",KEGS-LD tvg-logo="", KEGS-LD
+#EXTINF:-1 channel-id="Sports News Highlights" tvg-chno="30.4",Sports News Highlights tvg-logo="https://sportsnn.images.worldnow.com/images/23546723_G.png?auto=webp&disable=upscale&dpr=2&height=70&fit=bounds", Sports News Highlights
 http://192.168.1.174:8050/watch/63
 
-#EXTINF:-1 channel-id="KNBX-CD" tvg-chno="31.1",KNBX-CD tvg-logo="", KNBX-CD
+#EXTINF:-1 channel-id="Bein Sports Xtra" tvg-chno="31.1",Bein Sports Xtra tvg-logo="https://th.bing.com/th/id/R.2604df0df0fd67ce7b4dfcfc3e2bcc0b?rik=%2f8MAWNWIraAwvQ&riu=http%3a%2f%2fsportsmediareport.net%2fwp-content%2fuploads%2f2019%2f11%2fbeIN-SPORTS-XTRA_LOGO-1024x127.png&ehk=mmIXLmNcveR7nmqWyOhONB1%2fKqAw%2fJizao3gr1oBcMU%3d&risl=&pid=ImgRaw&r=0", Bein Sports Xtra
 http://192.168.1.174:8050/watch/1337
 
-#EXTINF:-1 channel-id="KNBX-CD" tvg-chno="31.2",KNBX-CD tvg-logo="", KNBX-CD
+#EXTINF:-1 channel-id="KNBX-CD" tvg-chno="31.2",KNBX-CD
 http://192.168.1.174:8050/watch/1338
 
-#EXTINF:-1 channel-id="KNBX-CD" tvg-chno="31.6",KNBX-CD tvg-logo="", KNBX-CD
+#EXTINF:-1 channel-id="KNBX-CD" tvg-chno="31.6",KNBX-CD
 http://192.168.1.174:8050/watch/1342
 
 #EXTINF:-1 channel-id="TheCWLV" tvg-chno="33.1",TheCWLV tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/the-cw-us.png?raw=true", TheCWLV
@@ -186,7 +186,7 @@ http://192.168.1.174:8050/watch/66
 #EXTINF:-1 channel-id="TBD" tvg-chno="33.3",TBD tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbd-us.png?raw=true", TBD
 http://192.168.1.174:8050/watch/1313
 
-#EXTINF:-1 channel-id="ThisTV" tvg-chno="33.4",ThisTV tvg-logo="", ThisTV
+#EXTINF:-1 channel-id="Nest" tvg-chno="33.4",Nest tvg-logo=https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/the-nest-us.png?raw=true"", Nest
 http://192.168.1.174:8050/watch/1314
 
 #EXTINF:-1 channel-id="Nest" tvg-chno="33.5",Nest tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/the-nest-us.png?raw=true", Nest
@@ -222,13 +222,13 @@ http://192.168.1.174:8050/watch/160329
 #EXTINF:-1 channel-id="Nosey" tvg-chno="39.6",Nosey tvg-logo="https://d2suv5gemfchwa.cloudfront.net/assets/images/logos/apps/transparent/padded/nosey.png", Nosey
 http://192.168.1.174:8050/watch/424682
 
-#EXTINF:-1 channel-id="LC" tvg-chno="50.1",LC tvg-logo="", LC
+#EXTINF:-1 channel-id="LC" tvg-chno="50.1",LC
 http://192.168.1.174:8050/watch/424683
 
-#EXTINF:-1 channel-id="KVGA-LD" tvg-chno="51.1",KVGA-LD tvg-logo="", KVGA-LD 
+#EXTINF:-1 channel-id="Heartland" tvg-chno="51.1",Heartland tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/heartland-us.png?raw=true", Heartland
 http://192.168.1.174:8050/watch/424672
 
-#EXTINF:-1 channel-id="RTV" tvg-chno="51.2",RTV tvg-logo="", RTV
+#EXTINF:-1 channel-id="RetroTV" tvg-chno="51.2",RetroTV tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/retro-tv-us.png?raw=true", RetroTV
 http://192.168.1.174:8050/watch/424673
 
 #EXTINF:-1 channel-id="REVN" tvg-chno="51.3",REVN tvg-logo="https://i.imgur.com/N8UatTY.png", REVN
@@ -237,12 +237,12 @@ http://192.168.1.174:8050/watch/424674
 #EXTINF:-1 channel-id="Action" tvg-chno="51.4",Action tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/action-channel-us.png?raw=true", Action
 http://192.168.1.174:8050/watch/424675
 
-#EXTINF:-1 channel-id="Family" tvg-chno="51.5",Family tvg-logo="", Family
+#EXTINF:-1 channel-id="Family" tvg-chno="51.5",Family tvg-logo="https://en-academic.com/pictures/enwiki/70/Family_Channel_2011.png", Family
 http://192.168.1.174:8050/watch/424676
 
-#EXTINF:-1 channel-id="Revival" tvg-chno="51.6",Revival tvg-logo="", Revival
+#EXTINF:-1 channel-id="Revival" tvg-chno="51.6",Revival tvg-logo="https://www.revival.com/s/u/202402/RevivalTV%20Logo%20(cropped).png", Revival
 http://192.168.1.174:8050/watch/424677
 
-#EXTINF:-1 channel-id="GLTVii" tvg-chno="51.7",GLTVii tvg-logo="", GLTVii
+#EXTINF:-1 channel-id="GLTVii" tvg-chno="51.7",GLTVii tvg-logo="https://greaterlove.tv/wp-content/uploads/2023/05/GreaterLove.TV-2.png", GLTVii
 http://192.168.1.174:8050/watch/424678
 

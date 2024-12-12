@@ -1,0 +1,247 @@
+#EXTM3U
+
+#EXTINF:-1 channel-id="NBC3" tvg-chno="3.1",NBC3 tvg-logo="https://logosmarcas.net/wp-content/uploads/2021/10/NBC-Logo.png",NBC3
+http://192.168.1.174:8050/watch/1358
+
+#EXTINF:-1 channel-id="Charge!" tvg-chno="3.3",Charge!
+http://192.168.1.174:8050/watch/1359
+
+#EXTINF:-1 channel-id="Comet" tvg-chno="3.4",Comet
+http://192.168.1.174:8050/watch/1360
+
+#EXTINF:-1 channel-id="FOX5LV" tvg-chno="5.1",FOX5LV
+http://192.168.1.174:8050/watch/1324
+
+#EXTINF:-1 channel-id="SSSEN" tvg-chno="5.2",SSSEN
+http://192.168.1.174:8050/watch/1325
+
+#EXTINF:-1 channel-id="MYSTERY" tvg-chno="5.3",MYSTERY
+http://192.168.1.174:8050/watch/1326
+
+#EXTINF:-1 channel-id="DABL" tvg-chno="5.4",DABL
+http://192.168.1.174:8050/watch/1327
+
+#EXTINF:-1 channel-id="CBS" tvg-chno="8.1",CBS
+http://192.168.1.174:8050/watch/1309
+
+#EXTINF:-1 channel-id="Antenna" tvg-chno="8.2",Antenna
+http://192.168.1.174:8050/watch/1310
+
+#EXTINF:-1 channel-id="Rewind" tvg-chno="8.3",Rewind
+http://192.168.1.174:8050/watch/1311
+
+#EXTINF:-1 channel-id="ShopLC" tvg-chno="8.4",ShopLC
+http://192.168.1.174:8050/watch/1312
+
+#EXTINF:-1 channel-id="KLVX-HD" tvg-chno="10.1",KLVX-HD
+http://192.168.1.174:8050/watch/1328
+
+#EXTINF:-1 channel-id="Create" tvg-chno="10.2",Create
+http://192.168.1.174:8050/watch/1329
+
+#EXTINF:-1 channel-id="PBSKids" tvg-chno="10.3",PBSKids
+http://192.168.1.174:8050/watch/1330
+
+#EXTINF:-1 channel-id="WORLD" tvg-chno="10.4",WORLD
+http://192.168.1.174:8050/watch/1331
+
+#EXTINF:-1 channel-id="KTNV-HD" tvg-chno="13.1",KTNV-HD
+http://192.168.1.174:8050/watch/1332
+
+#EXTINF:-1 channel-id="LAFF" tvg-chno="13.2",LAFF
+http://192.168.1.174:8050/watch/1333
+
+#EXTINF:-1 channel-id="GRIT" tvg-chno="13.3",GRIT
+http://192.168.1.174:8050/watch/1334
+
+#EXTINF:-1 channel-id="HSN" tvg-chno="13.4",HSN
+http://192.168.1.174:8050/watch/1335
+
+#EXTINF:-1 channel-id="ShopLC" tvg-chno="13.5",ShopLC
+http://192.168.1.174:8050/watch/160328
+
+#EXTINF:-1 channel-id="TruCrme" tvg-chno="15.4",TruCrme
+http://192.168.1.174:8050/watch/1344
+
+#EXTINF:-1 channel-id="Quest" tvg-chno="15.5",Quest
+http://192.168.1.174:8050/watch/1345
+
+#EXTINF:-1 channel-id="KEEN" tvg-chno="17.1",KEEN
+http://192.168.1.174:8050/watch/424679
+
+#EXTINF:-1 channel-id="LIFE" tvg-chno="17.2",LIFE
+http://192.168.1.174:8050/watch/424680
+
+#EXTINF:-1 channel-id="CTNi" tvg-chno="17.3",CTNi
+http://192.168.1.174:8050/watch/424681
+
+#EXTINF:-1 channel-id="MeTV" tvg-chno="21.1",MeTV
+http://192.168.1.174:8050/watch/424671
+
+#EXTINF:-1 channel-id="H&I" tvg-chno="21.2",H&I
+http://192.168.1.174:8050/watch/424664
+
+#EXTINF:-1 channel-id="START" tvg-chno="21.3",START
+http://192.168.1.174:8050/watch/424666
+
+#EXTINF:-1 channel-id="getTV" tvg-chno="21.4",getTV
+http://192.168.1.174:8050/watch/424667
+
+#EXTINF:-1 channel-id="CATCHY" tvg-chno="21.5",CATCHY
+http://192.168.1.174:8050/watch/424668
+
+#EXTINF:-1 channel-id="MeToons" tvg-chno="21.6",MeToons
+http://192.168.1.174:8050/watch/424665
+
+#EXTINF:-1 channel-id="NTDwest" tvg-chno="21.7",NTDwest
+http://192.168.1.174:8050/watch/424670
+
+#EXTINF:-1 channel-id="QVC" tvg-chno="21.8",QVC
+http://192.168.1.174:8050/watch/424669
+
+#EXTINF:-1 channel-id="KLVD-LD" tvg-chno="23.1",KLVD-LD
+http://192.168.1.174:8050/watch/1356
+
+#EXTINF:-1 channel-id="ESPANOL" tvg-chno="23.2",ESPANOL
+http://192.168.1.174:8050/watch/1357
+
+#EXTINF:-1 channel-id="PrimeTV" tvg-chno="25.1",PrimeTV
+http://192.168.1.174:8050/watch/160330
+
+#EXTINF:-1 channel-id="Movies!" tvg-chno="25.2",Movies!
+http://192.168.1.174:8050/watch/160331
+
+#EXTINF:-1 channel-id="RAVHD" tvg-chno="25.3",RAVHD
+http://192.168.1.174:8050/watch/160332
+
+#EXTINF:-1 channel-id="OAN" tvg-chno="25.4",OAN
+http://192.168.1.174:8050/watch/160333
+
+#EXTINF:-1 channel-id="NEWSMAX" tvg-chno="25.5",NEWSMAX
+http://192.168.1.174:8050/watch/160334
+
+#EXTINF:-1 channel-id="Story" tvg-chno="25.6",Story
+http://192.168.1.174:8050/watch/160335
+
+#EXTINF:-1 channel-id="Tel-Ant" tvg-chno="26.2",Tel-Ant
+http://192.168.1.174:8050/watch/1369
+
+#EXTINF:-1 channel-id="TBA" tvg-chno="26.3",TBA
+http://192.168.1.174:8050/watch/1364
+
+#EXTINF:-1 channel-id="BUZZR" tvg-chno="26.4",BUZZR
+http://192.168.1.174:8050/watch/1365
+
+#EXTINF:-1 channel-id="CTVLV" tvg-chno="26.5",CTVLV
+http://192.168.1.174:8050/watch/1366
+
+#EXTINF:-1 channel-id="Ventana" tvg-chno="26.6",Ventana
+http://192.168.1.174:8050/watch/1367
+
+#EXTINF:-1 channel-id="TheGrio" tvg-chno="26.7",TheGrio
+http://192.168.1.174:8050/watch/1363
+
+#EXTINF:-1 channel-id="Vegas+" tvg-chno="26.8",Vegas+
+http://192.168.1.174:8050/watch/1368
+
+#EXTINF:-1 channel-id="VNATV" tvg-chno="26.9",VNATV
+http://192.168.1.174:8050/watch/1370
+
+#EXTINF:-1 channel-id="QVC2" tvg-chno="26.10",QVC2
+http://192.168.1.174:8050/watch/1371
+
+#EXTINF:-1 channel-id="KVPX-LD" tvg-chno="28.3",KVPX-LD
+http://192.168.1.174:8050/watch/1372
+
+#EXTINF:-1 channel-id="KVPX-LD" tvg-chno="28.4",KVPX-LD
+http://192.168.1.174:8050/watch/1373
+
+#EXTINF:-1 channel-id="KEGS-LD" tvg-chno="30.1",KEGS-LD
+http://192.168.1.174:8050/watch/1361
+
+#EXTINF:-1 channel-id="KEGS-LD" tvg-chno="30.2",KEGS-LD
+http://192.168.1.174:8050/watch/61
+
+#EXTINF:-1 channel-id="KEGS-LD" tvg-chno="30.3",KEGS-LD
+http://192.168.1.174:8050/watch/62
+
+#EXTINF:-1 channel-id="KEGS-LD" tvg-chno="30.4",KEGS-LD
+http://192.168.1.174:8050/watch/63
+
+#EXTINF:-1 channel-id="KNBX-CD" tvg-chno="31.1",KNBX-CD
+http://192.168.1.174:8050/watch/1337
+
+#EXTINF:-1 channel-id="KNBX-CD" tvg-chno="31.2",KNBX-CD
+http://192.168.1.174:8050/watch/1338
+
+#EXTINF:-1 channel-id="KNBX-CD" tvg-chno="31.6",KNBX-CD
+http://192.168.1.174:8050/watch/1342
+
+#EXTINF:-1 channel-id="TheCWLV" tvg-chno="33.1",TheCWLV
+http://192.168.1.174:8050/watch/1336
+
+#EXTINF:-1 channel-id="My_LVTV" tvg-chno="33.2",My_LVTV
+http://192.168.1.174:8050/watch/66
+
+#EXTINF:-1 channel-id="TBD" tvg-chno="33.3",TBD
+http://192.168.1.174:8050/watch/1313
+
+#EXTINF:-1 channel-id="ThisTV" tvg-chno="33.4",ThisTV
+http://192.168.1.174:8050/watch/1314
+
+#EXTINF:-1 channel-id="Nest" tvg-chno="33.5",Nest
+http://192.168.1.174:8050/watch/1315
+
+#EXTINF:-1 channel-id="Vegas34" tvg-chno="34.1",Vegas34
+http://192.168.1.174:8050/watch/424684
+
+#EXTINF:-1 channel-id="ION" tvg-chno="34.2",ION
+http://192.168.1.174:8050/watch/424685
+
+#EXTINF:-1 channel-id="SCRIPPS" tvg-chno="34.4",SCRIPPS
+http://192.168.1.174:8050/watch/424686
+
+#EXTINF:-1 channel-id="IONPlus" tvg-chno="34.5",IONPlus
+http://192.168.1.174:8050/watch/424687
+
+#EXTINF:-1 channel-id="Bounce" tvg-chno="34.6",Bounce
+http://192.168.1.174:8050/watch/424688
+
+#EXTINF:-1 channel-id="Mystery" tvg-chno="34.7",Mystery
+http://192.168.1.174:8050/watch/424689
+
+#EXTINF:-1 channel-id="HSN" tvg-chno="34.8",HSN
+http://192.168.1.174:8050/watch/424690
+
+#EXTINF:-1 channel-id="COZI" tvg-chno="39.4",COZI
+http://192.168.1.174:8050/watch/59
+
+#EXTINF:-1 channel-id="Oxygen" tvg-chno="39.5",Oxygen
+http://192.168.1.174:8050/watch/160329
+
+#EXTINF:-1 channel-id="Nosey" tvg-chno="39.6",Nosey
+http://192.168.1.174:8050/watch/424682
+
+#EXTINF:-1 channel-id="LC" tvg-chno="50.1",LC
+http://192.168.1.174:8050/watch/424683
+
+#EXTINF:-1 channel-id="KVGA-LD" tvg-chno="51.1",KVGA-LD
+http://192.168.1.174:8050/watch/424672
+
+#EXTINF:-1 channel-id="RTV" tvg-chno="51.2",RTV
+http://192.168.1.174:8050/watch/424673
+
+#EXTINF:-1 channel-id="REVN" tvg-chno="51.3",REVN
+http://192.168.1.174:8050/watch/424674
+
+#EXTINF:-1 channel-id="Action" tvg-chno="51.4",Action
+http://192.168.1.174:8050/watch/424675
+
+#EXTINF:-1 channel-id="Family" tvg-chno="51.5",Family
+http://192.168.1.174:8050/watch/424676
+
+#EXTINF:-1 channel-id="Revival" tvg-chno="51.6",Revival
+http://192.168.1.174:8050/watch/424677
+
+#EXTINF:-1 channel-id="GLTVii" tvg-chno="51.7",GLTVii
+http://192.168.1.174:8050/watch/424678

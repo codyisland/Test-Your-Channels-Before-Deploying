@@ -102,10 +102,10 @@ http://192.168.1.174:8050/watch/424669
 #EXTINF:-1 channel-id="Daystar" tvg-chno="23.1",Daystar tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/daystar-us.png?raw=true", Daystar 
 http://192.168.1.174:8050/watch/1356
 
-#EXTINF:-1 channel-id="ESPANOL" tvg-chno="23.2",ESPANOL tvg-logo="", ESPANOL
+#EXTINF:-1 channel-id="ESPANOL" tvg-chno="23.2",ESPANOL
 http://192.168.1.174:8050/watch/1357
 
-#EXTINF:-1 channel-id="PrimeTV" tvg-chno="25.1",PrimeTV tvg-logo="", PrimeTV
+#EXTINF:-1 channel-id="PrimeTV" tvg-chno="25.1",PrimeTV
 http://192.168.1.174:8050/watch/160330
 
 #EXTINF:-1 channel-id="Movies!" tvg-chno="25.2",Movies! tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/movies-us.png?raw=true", Movies!
@@ -144,7 +144,7 @@ http://192.168.1.174:8050/watch/1363
 #EXTINF:-1 channel-id="Vegas+" tvg-chno="26.8",Vegas+
 http://192.168.1.174:8050/watch/1368
 
-#EXTINF:-1 channel-id="VNATV" tvg-chno="26.9",VNATV tvg-logo="", VNATV
+#EXTINF:-1 channel-id="VNATV" tvg-chno="26.9",VNATV
 http://192.168.1.174:8050/watch/1370
 
 #EXTINF:-1 channel-id="QVC2" tvg-chno="26.10",QVC2 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/qvc-2-us.png?raw=true", QVC2
